@@ -1,0 +1,7 @@
+package com.epam.classloader;
+
+public class TryLoad {
+    public void showTryLoad(){
+        System.out.println("Try load");
+    }
+}
